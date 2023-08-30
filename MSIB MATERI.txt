@@ -1,7 +1,9 @@
-1. Web Desain
+1. Desain Grafis (HTML, CSS, JS)
 2. UI/UX
 3. GIT/GITHUB
 4. Mysql
 5. PHP
 6. Laravel
-7. Final Project
+7. REST API
+8. Softkill
+9. Final Project
