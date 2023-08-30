@@ -1,0 +1,6 @@
+1. Web Desain
+2. UI/UX
+3. GIT/GITHUB
+4. Mysql
+5. PHP
+6. Laravel
